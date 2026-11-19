@@ -4,7 +4,8 @@ Base de datos relacional normalizada hasta Tercera Forma Normal (**3FN**) diseñ
 
 ## Modelo Entidad-Relación (EER)
 
-![Diagrama Entidad-Relación](docs/diagrama_eer.png)
+<img width="800" height="595" alt="7888a4d3-274d-4be8-b613-70fbbe80b51d" src="https://github.com/user-attachments/assets/b0725465-e3b9-42f4-bbca-41d7dbbb894d" />
+
 
 ### Arquitectura de Entidades (8 Tablas)
 * **Catálogos Maestros:** `Categoria`, `Metodo_Pago` y `Producto` (control de precio unitario, stock y disponibilidad).
